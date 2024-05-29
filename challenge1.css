@@ -31,8 +31,10 @@ h1{
 h2{
     color: hsl(14, 45%, 36%);
 }
-h3{
+#preparation{
     color: hsl(332, 51%, 32%);
+    font-size: 18px;
+    font-weight: bold;
 }
 #preparationTime{
     background-color: hsl(330, 100%, 98%);
